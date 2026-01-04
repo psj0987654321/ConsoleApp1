@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Olá, mundo com Git!");
-            Console.WriteLine("Meu primeiro projeto versionado.");
+            Console.WriteLine("Alterei o testo ,como actualizar no git.");
 
             Console.ReadLine();
         }
