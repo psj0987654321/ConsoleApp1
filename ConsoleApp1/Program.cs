@@ -9,7 +9,10 @@ namespace ConsoleApp1
             Console.WriteLine("Olá, mundo com Git!");
             Console.WriteLine("Alterei o testo ,como actualiza.");
 
+            Console.WriteLine("perfeito");
+
             Console.ReadLine();
+            Console.WriteLine("perfeito2");
         }
     }
 }
